@@ -1,0 +1,1 @@
+This task is done as the final module of AE5033 Flight Simulator Technology course material. The task description can be seen in `task.pdf` and the raw dataset was obtained through XPlane10 simulation of 3 groups stored in `data/data.txt`.
